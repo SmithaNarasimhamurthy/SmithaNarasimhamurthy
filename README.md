@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smitha Narasimhamurthy</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<image align="center" alt="coding" width="600" src= "https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
+<image align="center" alt="coding" width="900" src= "https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smithanarasimhamurthy" alt="smithanarasimhamurthy" /></a> </p>
 
