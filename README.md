@@ -1,4 +1,4 @@
-![logo](https://github.com/SmithaNarasimhamurthy/SmithaNarasimhamurthy/blob/main/AI%20Enthusiast%20%20Web%20Developer.png)
+![logo](https://github.com/SmithaNarasimhamurthy/SmithaNarasimhamurthy/blob/main/AI%20Enthusiast%20%20Web%20Developer(1).png)
 <h1 align="center">Hi 👋, I'm Smitha Narasimhamurthy</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
